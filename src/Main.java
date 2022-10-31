@@ -5,11 +5,7 @@ public class Main
         System.out.println("Hello World!");
         System.out.println("yo");
 
-
-
-        int a;
-
-
+        System.out.println("hej");
 
     }
 }
